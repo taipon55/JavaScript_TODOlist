@@ -1,0 +1,15 @@
+$main_color: #7ec9c1;
+$text_color: #f5fffa;
+body {
+  background-color: $main_color;
+  text-align: center;
+}
+
+.main-title {
+  color: #f5fffa;
+  font-size: 60px;
+}
+.under-text {
+  color: $text_color;
+  font-size: 20px;
+}
